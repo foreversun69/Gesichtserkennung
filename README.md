@@ -1,9 +1,10 @@
-# Gehostet auf Heroku => [Link](https://gesichtserkennungsapp.herokuapp.com/).
+# Gesichtserkennung
 
+## Gehostet auf Heroku => [Zur Webseite](https://gesichtserkennungsapp.herokuapp.com/)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+### Available Scripts
 
 In the project directory, you can run:
 
