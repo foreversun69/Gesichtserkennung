@@ -1,6 +1,6 @@
 # Gesichtserkennung
 
-## Gehostet auf Heroku => [Zur Webseite](https://gesichtserkennungsapp.herokuapp.com/)
+## [Homepage](https://foreversun87.github.io/)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
